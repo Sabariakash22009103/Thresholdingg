@@ -20,8 +20,8 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 
 ## Program
-### Developed By : SAFEEQ FAZIL A
-### Register Number : 212222240086
+### Developed By : Sabari Akash A
+### Register Number : 212222230124
 ```python
 # Load the necessary packages
 
@@ -72,26 +72,23 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/a7ce5809-4e33-4f1f-9668-25494e16fbdf)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/2193c58b-7590-4257-9faa-deb5d9f44fb1)
+
 
 ### Global Thresholding
-
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/a2056753-2b22-44a7-bea2-0ce4f5820e57)
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/7664e877-c626-47a1-89b4-2de1d23df026)
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/7aa21864-cc95-4533-9205-daa0ac2cdfef)
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/f958314a-c285-44fd-aed0-3392c524f83b)
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/a8b770b3-ce07-458e-9f9e-b4e9a82c0484)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/dac7222d-3591-428a-8d25-754294ff11ca)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/5d662b59-66a9-4e22-8d96-0e678154afca)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/4c3cc435-aad1-470a-83cc-161a4def909e)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/590aeb73-54d7-4a01-8188-39c7854bfea8)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/6621bfc6-73dc-4c3c-8055-cfab332b9d32)
 
 
 ### Adaptive Thresholding
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/785cdb4f-f29c-4f10-a13b-3ccde08c83bc)
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/dfbda153-74ac-4d3a-a8f7-98d8573fa2d9)
-
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/850061f6-7476-4f34-8de2-f238ba211b05)
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/dbaf4b04-0a89-4710-b163-d129f4b641ef)
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://github.com/Safeeq-Fazil/Thresholdingg/assets/118680361/6979a5c8-a547-419c-91f3-82d148994f94)
-
-
+![download](https://github.com/Sabariakash22009103/Thresholdingg/assets/119390227/c33511c1-7178-4c7c-b3b3-4b8cfe23cad7)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
